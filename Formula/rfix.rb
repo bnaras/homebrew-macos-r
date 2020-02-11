@@ -1,4 +1,4 @@
-class Rfix < Formula
+class RFIX < Formula
   desc "Software environment for statistical computing"
   homepage "https://www.r-project.org/"
   url "http://cran.r-project.org/src/base/R-3/R-3.6.2.tar.gz"
