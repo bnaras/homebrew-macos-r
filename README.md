@@ -6,14 +6,14 @@ use.
 
 ## How do I install these formulae?
 
-`brew install bnaras/macos-r/rfix.rb`
+`brew install bnaras/macos-r/rf.rb`
 
-Or `brew tap bnaras/macos-r` and then `brew install rfix`.
+Or `brew tap bnaras/macos-r` and then `brew install rf`.
 
 Or install via URL (which will not receive updates):
 
 ```
-brew install https://raw.githubusercontent.com/bnaras/homebrew-macos-r/master/Formula/rfix.rb
+brew install https://raw.githubusercontent.com/bnaras/homebrew-macos-r/master/Formula/rf.rb
 ```
 
 ## Documentation
