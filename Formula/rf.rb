@@ -9,10 +9,10 @@ class Rf < Formula
   depends_on "gettext"
   depends_on "jpeg"
   depends_on "libpng"
-  depends_on "pcre"
+  depends_on "pcre2"
   depends_on "readline"
   depends_on "xz"
-  depends_on "openblas" => :optional
+  depends_on "openblas"
   depends_on :java => :optional
 
   ## SRF - Add additional R capabilities (comment out if undesired)
